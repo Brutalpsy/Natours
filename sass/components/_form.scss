@@ -76,7 +76,7 @@
       border-radius: 50%;
       height: 1.3rem;
       width: 1.3rem;
-      @include centerHorizontalVertical;
+      @include absoluteCenter;
       background-color: $color-primary;
       opacity: 0;
       transition: opacity 0.2s;
